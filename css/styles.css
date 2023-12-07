@@ -2,6 +2,7 @@ body {
   margin: 0;
   overflow: hidden;
   background-color: #000;
+
 }
 
 #video-container {
@@ -25,9 +26,9 @@ svg {
 #start-image {
   justify-content: center;
   align-items: center;
-  padding-left: 19%;
-  height: 100%;
-  width: 100%;
+  padding-left: 2%;
+  height: 95%;
+  width: 95%;
   z-index: 0;
 }
 
