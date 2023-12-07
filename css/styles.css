@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+#video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1%;
+  z-index: 1;
+}
+
+
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  margin: 0;
+}
+
+#start-image {
+  justify-content: center;
+  align-items: center;
+  padding-left: 19%;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+.cls-1 {
+  fill: #797091;
+  stroke: #999;
+  stroke-width: 1px;
+}
+
+.cls-1,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5 {
+  stroke-miterlimit: 10;
+}
+
+.cls-6 {
+  fill: #3b00bc;
+}
+
+.cls-6,
+.cls-7 {
+  opacity: .57;
+}
+
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-14,
+.cls-15,
+.cls-16,
+.cls-17,
+.cls-18 {
+  stroke-width: 0px;
+}
+
+.cls-7 {
+  fill: red;
+}
+
+.cls-9 {
+  opacity: .53;
+}
+
+.cls-9,
+.cls-4,
+.cls-13,
+.cls-5,
+.cls-17 {
+  fill: #ffd573;
+}
+
+.cls-2 {
+  fill: none;
+}
+
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-19 {
+  opacity: .32;
+}
+
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5 {
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.cls-10 {
+  fill: #ffcd86;
+}
+
+.cls-11 {
+  fill: #9e2828;
+}
+
+.cls-12 {
+  fill: #f7b506;
+}
+
+.cls-3 {
+  fill: #40361d;
+}
+
+.cls-13 {
+  opacity: .89;
+}
+
+.cls-14 {
+  fill: #d46500;
+}
+
+.cls-15 {
+  fill: #ffb915;
+}
+
+.cls-16 {
+  fill: #061c8d;
+}
+
+.cls-5 {
+  opacity: .73;
+}
+
+.cls-18 {
+  fill: #036d54;
+}
